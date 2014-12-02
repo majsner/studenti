@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Studenti</string>
+    <string name="tlacitko1">Načíst</string>
+    <string name="nadpis">Seznam studentů</string>
+    <string name="nastaveni">Nastavení</string>
+    <string name="loading">Načítám</string>
+
+</resources>
